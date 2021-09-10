@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: giang/camap # Path to your GitHub repository
+  # optional, defaults to master
+  # branch: main
